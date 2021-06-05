@@ -179,9 +179,9 @@ Obligations under [Confidentiality Obligations](#confidentiality-obligations) fo
 
 # General Contract Terms
 
-## No Assignment or Delegation
+## Assignment and Delegation
 
-Neither party may assign any right or delegate any obligation under this agreement, voluntarily or by operation of law, without the prior, signed, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
+_Disclosing Party_ may assign this agreement in connection with a corporate reorganization, merger, acquisition of its capital stock, or sale of all or substantially all of its assets.  Otherwise, neither party may assign any right or delegate any obligation under this agreement, voluntarily or by operation of law, without the prior, signed, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
 
 ## Dispute Resolution
 
